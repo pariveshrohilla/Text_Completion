@@ -34,3 +34,9 @@ Operation	Complexity<br>
 Insertion	O(n)<br>
 Prefix Search	O(n)<br>
 Suggestion Generation	O(k) where k is total matched suggestions<br>
+
+
+<br><br>
+Trie built with [N] words.
+Server running at http://localhost:3000
+open this in browser and see the final results
